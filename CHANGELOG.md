@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.57](https://github.com/StanGirard/quivr/compare/v0.0.56...v0.0.57) (2023-08-12)
+
+
+### Features
+
+* update chat ui ([#907](https://github.com/StanGirard/quivr/issues/907)) ([80be40a](https://github.com/StanGirard/quivr/commit/80be40ad34d07b646d48d2aa0405a92b3de308d7))
+
+
+### Bug Fixes
+
+* **chat routes:** use brain model, temp, and token ([#902](https://github.com/StanGirard/quivr/issues/902)) ([59ddfb4](https://github.com/StanGirard/quivr/commit/59ddfb48823b56239fe7fc95133274a3bedf49da))
+* **translations:** pr portuguese translations ([#933](https://github.com/StanGirard/quivr/issues/933)) ([d80178a](https://github.com/StanGirard/quivr/commit/d80178a84802c35b2c13d3eef4d0438fd067da92))
+
 ## [0.0.56](https://github.com/StanGirard/quivr/compare/v0.0.55...v0.0.56) (2023-08-10)
 
 
